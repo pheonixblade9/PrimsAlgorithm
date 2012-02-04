@@ -1,0 +1,7 @@
+C:\Users\Cody_Laptop\Desktop\Projects\PrimsAlgorithm\PrimsAlgorithm\bin\Debug\PrimsAlgorithm.exe
+C:\Users\Cody_Laptop\Desktop\Projects\PrimsAlgorithm\PrimsAlgorithm\bin\Debug\PrimsAlgorithm.pdb
+C:\Users\Cody_Laptop\Desktop\Projects\PrimsAlgorithm\PrimsAlgorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody_Laptop\Desktop\Projects\PrimsAlgorithm\PrimsAlgorithm\obj\x86\Debug\PrimsAlgorithm.exe
+C:\Users\Cody_Laptop\Desktop\Projects\PrimsAlgorithm\PrimsAlgorithm\obj\x86\Debug\PrimsAlgorithm.pdb
+C:\Users\Cody_Laptop\Desktop\Projects\git_stuff\PrimsAlgorithm\PrimsAlgorithm\obj\x86\Debug\PrimsAlgorithm.exe
+C:\Users\Cody_Laptop\Desktop\Projects\git_stuff\PrimsAlgorithm\PrimsAlgorithm\obj\x86\Debug\PrimsAlgorithm.pdb
